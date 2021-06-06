@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/percentage-counter-chart/static/css/main.40ce4bfe.chunk.css",
-    "main.js": "/percentage-counter-chart/static/js/main.e718ebe0.chunk.js",
-    "main.js.map": "/percentage-counter-chart/static/js/main.e718ebe0.chunk.js.map",
+    "main.js": "/percentage-counter-chart/static/js/main.cf6b28c5.chunk.js",
+    "main.js.map": "/percentage-counter-chart/static/js/main.cf6b28c5.chunk.js.map",
     "runtime-main.js": "/percentage-counter-chart/static/js/runtime-main.450f1ecc.js",
     "runtime-main.js.map": "/percentage-counter-chart/static/js/runtime-main.450f1ecc.js.map",
-    "static/js/2.d31814cd.chunk.js": "/percentage-counter-chart/static/js/2.d31814cd.chunk.js",
-    "static/js/2.d31814cd.chunk.js.map": "/percentage-counter-chart/static/js/2.d31814cd.chunk.js.map",
+    "static/js/2.1cfab501.chunk.js": "/percentage-counter-chart/static/js/2.1cfab501.chunk.js",
+    "static/js/2.1cfab501.chunk.js.map": "/percentage-counter-chart/static/js/2.1cfab501.chunk.js.map",
     "index.html": "/percentage-counter-chart/index.html",
     "static/css/main.40ce4bfe.chunk.css.map": "/percentage-counter-chart/static/css/main.40ce4bfe.chunk.css.map",
-    "static/js/2.d31814cd.chunk.js.LICENSE.txt": "/percentage-counter-chart/static/js/2.d31814cd.chunk.js.LICENSE.txt"
+    "static/js/2.1cfab501.chunk.js.LICENSE.txt": "/percentage-counter-chart/static/js/2.1cfab501.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.450f1ecc.js",
-    "static/js/2.d31814cd.chunk.js",
+    "static/js/2.1cfab501.chunk.js",
     "static/css/main.40ce4bfe.chunk.css",
-    "static/js/main.e718ebe0.chunk.js"
+    "static/js/main.cf6b28c5.chunk.js"
   ]
 }
