@@ -7,6 +7,10 @@ const useStyles = makeStyles(theme => ({
     flexDirection: 'column',
     cursor: 'default',
     marginTop: theme.customStyles.spacing.xLarge,
+    width: '100%',
+    '@media only screen and (min-width: 600px)': {
+      width: theme.customStyles.dimension.contentWidth,
+    },
   },
   itemsBlockContainer: {
     width: '100%',
@@ -30,7 +34,9 @@ const useStyles = makeStyles(theme => ({
   },
   totalContainer: {
     display: 'flex',
+    justifyContent: 'space-between',
     marginTop: theme.customStyles.spacing.large,
+    width: '100%',
   },
   totalContentContainer: {
     display: 'flex',

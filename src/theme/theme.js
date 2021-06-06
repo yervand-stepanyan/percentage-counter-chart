@@ -1,7 +1,7 @@
 import { createMuiTheme } from '@material-ui/core';
 
 const ADD_BUTTON_HEIGHT = 56;
-const INPUT_WIDTH = 300;
+const CONTENT_WIDTH = 400;
 const MAIN_SPACING_VALUE = 16;
 const PERCENT_ITEM_WIDTH = 60;
 
@@ -9,7 +9,7 @@ export const theme = createMuiTheme({
   customStyles: {
     dimension: {
       addButtonHeight: `${ADD_BUTTON_HEIGHT}px`, // 56px
-      inputWidth: `${INPUT_WIDTH}px`, // 300px
+      contentWidth: `${CONTENT_WIDTH}px`, // 400px
       percentItemWidth: `${PERCENT_ITEM_WIDTH}px`, // 60px
     },
     spacing: {

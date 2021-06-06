@@ -5,10 +5,15 @@ const useStyles = makeStyles(theme => ({
     display: 'flex',
     alignItems: 'center',
     flexDirection: 'column',
+    width: '100%',
+    '@media only screen and (min-width: 600px)': {
+      width: theme.customStyles.dimension.contentWidth,
+    },
   },
   inputAndButtonContainer: {
     display: 'flex',
     marginTop: theme.customStyles.spacing.base,
+    width: '100%',
   },
   textField: {
     [`& fieldset`]: {
@@ -18,9 +23,9 @@ const useStyles = makeStyles(theme => ({
   },
   inputWrapper: {
     width: '100%',
-    '@media only screen and (min-width: 600px)': {
-      width: theme.customStyles.dimension.inputWidth,
-    },
+    // '@media only screen and (min-width: 600px)': {
+    //   width: theme.customStyles.dimension.inputWidth,
+    // },
   },
   addButton: {
     'border-top-left-radius': 0,
