@@ -1,6 +1,6 @@
 {
   "name": "percentage-counter-chart",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "homepage": "http://yervand-stepanyan.github.io/percentage-counter-chart",
   "dependencies": {
